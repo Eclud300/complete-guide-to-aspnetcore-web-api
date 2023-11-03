@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cd08\\Desktop\\DAR\\libreria_RERS\\libreria_RERS\\libreria_RERS.csproj": {}
+    "C:\\Users\\cd17\\Source\\Repos\\complete-guide-to-aspnetcore-web-api\\libreria_RERS\\libreria_RERS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cd08\\Desktop\\DAR\\libreria_RERS\\libreria_RERS\\libreria_RERS.csproj": {
+    "C:\\Users\\cd17\\Source\\Repos\\complete-guide-to-aspnetcore-web-api\\libreria_RERS\\libreria_RERS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cd08\\Desktop\\DAR\\libreria_RERS\\libreria_RERS\\libreria_RERS.csproj",
+        "projectUniqueName": "C:\\Users\\cd17\\Source\\Repos\\complete-guide-to-aspnetcore-web-api\\libreria_RERS\\libreria_RERS.csproj",
         "projectName": "libreria_RERS",
-        "projectPath": "C:\\Users\\cd08\\Desktop\\DAR\\libreria_RERS\\libreria_RERS\\libreria_RERS.csproj",
-        "packagesPath": "C:\\Users\\cd08\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cd08\\Desktop\\DAR\\libreria_RERS\\libreria_RERS\\obj\\",
+        "projectPath": "C:\\Users\\cd17\\Source\\Repos\\complete-guide-to-aspnetcore-web-api\\libreria_RERS\\libreria_RERS.csproj",
+        "packagesPath": "C:\\Users\\cd17\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cd17\\Source\\Repos\\complete-guide-to-aspnetcore-web-api\\libreria_RERS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cd08\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cd17\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

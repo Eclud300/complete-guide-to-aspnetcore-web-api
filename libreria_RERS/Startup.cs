@@ -68,7 +68,7 @@ namespace libreria_RERS
             {
                 endpoints.MapRazorPages();
             });
-            AppDbInitializer.Seed(app);
+            AppDbInitialer.Seed(app);
         }
     }
 }
